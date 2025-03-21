@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\POSV1.TenantAPI.props" />
+</Project>

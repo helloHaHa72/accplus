@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vtRl86mt9XK2KgPCVDjzszYbRsP9/On9dYr3OEarack=",
+  "Source": "POSV1.AccountPlusApp",
+  "BasePath": "_content/POSV1.AccountPlusApp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

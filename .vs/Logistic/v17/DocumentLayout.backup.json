@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\pro\\AccountPlus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA17DFF6-193B-42FC-8BA1-938E50398CA9}|POSV1.TenantAPI\\POSV1.TenantAPI.csproj|f:\\pro\\accountplus\\posv1.tenantapi\\controllers\\inventory\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA17DFF6-193B-42FC-8BA1-938E50398CA9}|POSV1.TenantAPI\\POSV1.TenantAPI.csproj|solutionrelative:posv1.tenantapi\\controllers\\inventory\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7178238B-9D6E-4601-AA1B-C3355E51F679}|POSV1.TenantModel\\POSV1.TenantModel.csproj|f:\\pro\\accountplus\\posv1.tenantmodel\\startup\\startupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7178238B-9D6E-4601-AA1B-C3355E51F679}|POSV1.TenantModel\\POSV1.TenantModel.csproj|solutionrelative:posv1.tenantmodel\\startup\\startupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7178238B-9D6E-4601-AA1B-C3355E51F679}|POSV1.TenantModel\\POSV1.TenantModel.csproj|f:\\pro\\accountplus\\posv1.tenantmodel\\data\\accesslistseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7178238B-9D6E-4601-AA1B-C3355E51F679}|POSV1.TenantModel\\POSV1.TenantModel.csproj|solutionrelative:posv1.tenantmodel\\data\\accesslistseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7178238B-9D6E-4601-AA1B-C3355E51F679}|POSV1.TenantModel\\POSV1.TenantModel.csproj|f:\\pro\\accountplus\\posv1.tenantmodel\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7178238B-9D6E-4601-AA1B-C3355E51F679}|POSV1.TenantModel\\POSV1.TenantModel.csproj|solutionrelative:posv1.tenantmodel\\maindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA17DFF6-193B-42FC-8BA1-938E50398CA9}|POSV1.TenantAPI\\POSV1.TenantAPI.csproj|f:\\pro\\accountplus\\posv1.tenantapi\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA17DFF6-193B-42FC-8BA1-938E50398CA9}|POSV1.TenantAPI\\POSV1.TenantAPI.csproj|solutionrelative:posv1.tenantapi\\services\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7178238B-9D6E-4601-AA1B-C3355E51F679}|POSV1.TenantModel\\POSV1.TenantModel.csproj|f:\\pro\\accountplus\\posv1.tenantmodel\\generalenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7178238B-9D6E-4601-AA1B-C3355E51F679}|POSV1.TenantModel\\POSV1.TenantModel.csproj|solutionrelative:posv1.tenantmodel\\generalenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA17DFF6-193B-42FC-8BA1-938E50398CA9}|POSV1.TenantAPI\\POSV1.TenantAPI.csproj|f:\\pro\\accountplus\\posv1.tenantapi\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA17DFF6-193B-42FC-8BA1-938E50398CA9}|POSV1.TenantAPI\\POSV1.TenantAPI.csproj|solutionrelative:posv1.tenantapi\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA17DFF6-193B-42FC-8BA1-938E50398CA9}|POSV1.TenantAPI\\POSV1.TenantAPI.csproj|f:\\pro\\accountplus\\posv1.tenantapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA17DFF6-193B-42FC-8BA1-938E50398CA9}|POSV1.TenantAPI\\POSV1.TenantAPI.csproj|solutionrelative:posv1.tenantapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA17DFF6-193B-42FC-8BA1-938E50398CA9}|POSV1.TenantAPI\\POSV1.TenantAPI.csproj|f:\\pro\\accountplus\\posv1.tenantapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA17DFF6-193B-42FC-8BA1-938E50398CA9}|POSV1.TenantAPI\\POSV1.TenantAPI.csproj|solutionrelative:posv1.tenantapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2712,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "F:\\pro\\AccountPlus\\POSV1.TenantAPI\\Controllers\\Inventory\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "POSV1.TenantAPI\\Controllers\\Inventory\\SuppliersController.cs",
+              "ToolTip": "F:\\pro\\AccountPlus\\POSV1.TenantAPI\\Controllers\\Inventory\\SuppliersController.cs",
+              "RelativeToolTip": "POSV1.TenantAPI\\Controllers\\Inventory\\SuppliersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:38:04.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartupService.cs",
+              "DocumentMoniker": "F:\\pro\\AccountPlus\\POSV1.TenantModel\\Startup\\StartupService.cs",
+              "RelativeDocumentMoniker": "POSV1.TenantModel\\Startup\\StartupService.cs",
+              "ToolTip": "F:\\pro\\AccountPlus\\POSV1.TenantModel\\Startup\\StartupService.cs",
+              "RelativeToolTip": "POSV1.TenantModel\\Startup\\StartupService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAtwDUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:35:37.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccessListSeeder.cs",
+              "DocumentMoniker": "F:\\pro\\AccountPlus\\POSV1.TenantModel\\Data\\AccessListSeeder.cs",
+              "RelativeDocumentMoniker": "POSV1.TenantModel\\Data\\AccessListSeeder.cs",
+              "ToolTip": "F:\\pro\\AccountPlus\\POSV1.TenantModel\\Data\\AccessListSeeder.cs",
+              "RelativeToolTip": "POSV1.TenantModel\\Data\\AccessListSeeder.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAD4v3EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:35:11.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainDbContext.cs",
+              "DocumentMoniker": "F:\\pro\\AccountPlus\\POSV1.TenantModel\\MainDbContext.cs",
+              "RelativeDocumentMoniker": "POSV1.TenantModel\\MainDbContext.cs",
+              "ToolTip": "F:\\pro\\AccountPlus\\POSV1.TenantModel\\MainDbContext.cs",
+              "RelativeToolTip": "POSV1.TenantModel\\MainDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAtwCIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:34:23.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GeneralEnums.cs",
+              "DocumentMoniker": "F:\\pro\\AccountPlus\\POSV1.TenantModel\\GeneralEnums.cs",
+              "RelativeDocumentMoniker": "POSV1.TenantModel\\GeneralEnums.cs",
+              "ToolTip": "F:\\pro\\AccountPlus\\POSV1.TenantModel\\GeneralEnums.cs",
+              "RelativeToolTip": "POSV1.TenantModel\\GeneralEnums.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:30:26.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "F:\\pro\\AccountPlus\\POSV1.TenantAPI\\Services\\Implementation\\AuthService.cs",
+              "RelativeDocumentMoniker": "POSV1.TenantAPI\\Services\\Implementation\\AuthService.cs",
+              "ToolTip": "F:\\pro\\AccountPlus\\POSV1.TenantAPI\\Services\\Implementation\\AuthService.cs",
+              "RelativeToolTip": "POSV1.TenantAPI\\Services\\Implementation\\AuthService.cs",
+              "ViewState": "AgIAAIYBAAAAAAAAAAAcwK0BAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:29:15.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\pro\\AccountPlus\\POSV1.TenantAPI\\Controllers\\Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "POSV1.TenantAPI\\Controllers\\Auth\\AuthController.cs",
+              "ToolTip": "F:\\pro\\AccountPlus\\POSV1.TenantAPI\\Controllers\\Auth\\AuthController.cs",
+              "RelativeToolTip": "POSV1.TenantAPI\\Controllers\\Auth\\AuthController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAvwFoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:25:07.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\pro\\AccountPlus\\POSV1.TenantAPI\\Program.cs",
+              "RelativeDocumentMoniker": "POSV1.TenantAPI\\Program.cs",
+              "ToolTip": "F:\\pro\\AccountPlus\\POSV1.TenantAPI\\Program.cs",
+              "RelativeToolTip": "POSV1.TenantAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:25:44.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\pro\\AccountPlus\\POSV1.TenantAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "POSV1.TenantAPI\\appsettings.json",
+              "ToolTip": "F:\\pro\\AccountPlus\\POSV1.TenantAPI\\appsettings.json",
+              "RelativeToolTip": "POSV1.TenantAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T04:24:46.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

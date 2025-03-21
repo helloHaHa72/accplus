@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5++2H1WuRd6tkrIygtryFeUtYrGPLhBOaeWW+VIH7SQ=",
+  "Source": "POSV1.TenantAPI",
+  "BasePath": "_content/POSV1.TenantAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

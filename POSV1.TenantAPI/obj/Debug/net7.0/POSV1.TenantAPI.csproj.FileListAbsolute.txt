@@ -1,0 +1,7 @@
+E:\Essense\git\Brickx\code-sebs-accountingv1\POSV1.TenantAPI\obj\Debug\net7.0\POSV1.TenantAPI.csproj.AssemblyReference.cache
+E:\Essense\git\Brickx\code-sebs-accountingv1\POSV1.TenantAPI\obj\Debug\net7.0\POSV1.TenantAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Essense\git\Brickx\code-sebs-accountingv1\POSV1.TenantAPI\obj\Debug\net7.0\POSV1.TenantAPI.AssemblyInfoInputs.cache
+E:\Essense\git\Brickx\code-sebs-accountingv1\POSV1.TenantAPI\obj\Debug\net7.0\POSV1.TenantAPI.AssemblyInfo.cs
+E:\Essense\git\Brickx\code-sebs-accountingv1\POSV1.TenantAPI\obj\Debug\net7.0\POSV1.TenantAPI.csproj.CoreCompileInputs.cache
+E:\Essense\git\Brickx\code-sebs-accountingv1\POSV1.TenantAPI\obj\Debug\net7.0\POSV1.TenantAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Essense\git\Brickx\code-sebs-accountingv1\POSV1.TenantAPI\obj\Debug\net7.0\POSV1.TenantAPI.sourcelink.json

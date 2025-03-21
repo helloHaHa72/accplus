@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\POSV1.TenantAPI.props" />
+</Project>
